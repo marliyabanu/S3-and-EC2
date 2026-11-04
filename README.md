@@ -125,7 +125,8 @@ student-cloud-storage-001
 
 ### OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-31 081904" src="https://github.com/user-attachments/assets/5d9e0876-6af4-4477-ae9b-31c76f58959a" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/20a9f175-db66-4a6f-b627-d42090fc37d5" />
+
 <img width="1917" height="868" alt="Screenshot 2026-10-31 082315" src="https://github.com/user-attachments/assets/7683555e-343a-41fc-8eb4-c37181f77142" />
 
 
