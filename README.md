@@ -1,9 +1,9 @@
 
-### NAME: BUVANESHWARI R
+### NAME: Marliya Banu B
 
-### REG NO: 212224100007
+### REG NO: 212225040229
 
-### DATE: 03-11-2026
+### DATE: 04-11-2026
 
 # Experiment No. 2
 
@@ -65,8 +65,8 @@ Log in using the following method:
 - Enter the registered email address.
 - Enter the AWS password.
 - Complete the verification process.
-<img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/52dbab78-79ed-4e4e-8356-eec627cbab26" />
 
+<img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/52dbab78-79ed-4e4e-8356-eec627cbab26" />
 
 
 ### Step 3
@@ -127,7 +127,8 @@ student-cloud-storage-001
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/20a9f175-db66-4a6f-b627-d42090fc37d5" />
 
-<img width="1917" height="868" alt="Screenshot 2026-10-31 082315" src="https://github.com/user-attachments/assets/7683555e-343a-41fc-8eb4-c37181f77142" />
+
+<img width="1863" height="844" alt="image" src="https://github.com/user-attachments/assets/a349e95f-db96-44ad-a961-1cfc1402a8ad" />
 
 
 
